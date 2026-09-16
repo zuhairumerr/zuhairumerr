@@ -28,16 +28,6 @@
   <img src="https://github-readme-stats-fast.vercel.app/api?username=zuhairumerr&show_icons=true&theme=radical" alt="zuhairumerr" />
 </p>
 
-<h3 align="left">Top Languages</h3>
-<p align="left">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zuhairumerr&layout=compact&theme=radical" alt="top languages" />
-</p>
-
-<h3 align="left">Trophies</h3>
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=zuhairumerr&theme=radical&row=1&column=6" alt="trophies" />
-</p>
-
 <p align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=zuhairumerr.zuhairumerr" alt="visitor badge"/>
 </p>
