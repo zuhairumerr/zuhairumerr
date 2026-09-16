@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Zuhair Umer</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=40" />
+
 <h3 align="center">BS-AI Student | Exploring ML, Data Mining & LLMs | Web Dev on the side</h3>
 
 <p align="center">
@@ -10,6 +11,8 @@
 - 💻 Also building web dev skills — **React**, **Node.js**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/zuhair-umer-6b9835437) | [Instagram](https://instagram.com/zuhairrumer)
 
+<img src="https://github.com/zuhairumerr/zuhairumerr/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+
 <h3 align="left">Languages & Tools</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,react,nodejs,mysql,git" />
@@ -18,6 +21,21 @@
 <h3 align="left">GitHub Stats</h3>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=zuhairumerr&show_icons=true&theme=radical" alt="zuhairumerr" />
+</p>
+
+<h3 align="left">Streak Stats</h3>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zuhairumerr&theme=radical" alt="streak stats" />
+</p>
+
+<h3 align="left">Top Languages</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuhairumerr&layout=compact&theme=radical" alt="top languages" />
+</p>
+
+<h3 align="left">Trophies</h3>
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=zuhairumerr&theme=radical&no-frame=true&row=1&column=6" alt="trophies" />
 </p>
 
 <p align="left">
