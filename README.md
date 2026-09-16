@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile" />
 
 <h3 align="center">BS-AI Student | Exploring ML, Data Mining & LLMs | Web Dev on the side</h3>
 
@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=AI+%26+Data+Enthusiast;Machine+Learning+%7C+Data+Mining;Building+with+Python+%26+Web+Tech" alt="Typing SVG" />
 </p>
 
-- 🎓 BS-AI student at **SZABIST Islamabad**, currently in my 4th semester
+- 🎓 BS-AI student at **SZABIST Islamabad**, currently in my 5th semester
 - 🤖 Exploring **Machine Learning**, **Data Mining**, and **LLMs**
 - 💻 Also building web dev skills — **React**, **Node.js**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/zuhair-umer-6b9835437) | [Instagram](https://instagram.com/zuhairrumer)
@@ -15,7 +15,7 @@
 
 <h3 align="left">Languages & Tools</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,nodejs,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,nodejs,mysql,git" />
 </p>
 
 <h3 align="left">Profile Summary</h3>
@@ -25,12 +25,12 @@
 
 <h3 align="left">GitHub Stats</h3>
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zuhairumerr&show_icons=true&theme=radical" alt="zuhairumerr" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zuhairumerr&show_icons=true&theme=radical&cache_seconds=1800" alt="zuhairumerr" />
 </p>
 
 <h3 align="left">Top Languages</h3>
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zuhairumerr&layout=compact&theme=radical" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuhairumerr&layout=compact&theme=radical&cache_seconds=1800" alt="top languages" />
 </p>
 
 <h3 align="left">Trophies</h3>
