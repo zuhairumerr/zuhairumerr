@@ -5,10 +5,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=AI+%26+Data+Enthusiast;Machine+Learning+%7C+Data+Mining;Building+with+Python+%26+Web+Tech" alt="Typing SVG" />
 </p>
 
-- 🎓 BS-AI student at **SZABIST Islamabad**, currently in my 5th semester
+- 🎓 BS-AI student at **SZABIST Islamabad**, currently in my 4th semester
 - 🤖 Exploring **Machine Learning**, **Data Mining**, and **LLMs**
 - 💻 Also building web dev skills — **React**, **Node.js**
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/zuhair-umer-6b9835437?utm_source=share_via&utm_content=profile&utm_medium=member_ios) | [Instagram]([https://instagram.com/zuhairumerr])
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/zuhair-umer-6b9835437) | [Instagram](https://instagram.com/zuhairrumer)
 
 <h3 align="left">Languages & Tools</h3>
 <p align="left">
