@@ -25,22 +25,17 @@
 
 <h3 align="left">GitHub Stats</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=zuhairumerr&show_icons=true&theme=radical" alt="zuhairumerr" />
-</p>
-
-<h3 align="left">Streak Stats</h3>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zuhairumerr&theme=radical" alt="streak stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zuhairumerr&show_icons=true&theme=radical" alt="zuhairumerr" />
 </p>
 
 <h3 align="left">Top Languages</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuhairumerr&layout=compact&theme=radical" alt="top languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zuhairumerr&layout=compact&theme=radical" alt="top languages" />
 </p>
 
 <h3 align="left">Trophies</h3>
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=zuhairumerr&theme=radical&no-frame=true&row=1&column=6" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zuhairumerr&theme=radical&row=1&column=6" alt="trophies" />
 </p>
 
 <p align="left">
