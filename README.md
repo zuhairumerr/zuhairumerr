@@ -25,12 +25,12 @@
 
 <h3 align="left">GitHub Stats</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=zuhairumerr&show_icons=true&theme=radical&cache_seconds=1800" alt="zuhairumerr" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=zuhairumerr&show_icons=true&theme=radical" alt="zuhairumerr" />
 </p>
 
 <h3 align="left">Top Languages</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuhairumerr&layout=compact&theme=radical&cache_seconds=1800" alt="top languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zuhairumerr&layout=compact&theme=radical" alt="top languages" />
 </p>
 
 <h3 align="left">Trophies</h3>
